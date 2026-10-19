@@ -1,0 +1,7 @@
+streamlit
+ollama
+pypdf
+python-docx
+pillow
+requests
+duckduckgo_search
